@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 15 19:08:19 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0168-51bb-f53f-0000087afc48 
+on database directory memory:C:\Users\Manish Raj\Music\New folder\interstellar-Assignemnt\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Manish%20Raj/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_51-b16
+user.dir=C:\Users\Manish Raj\Music\New folder\interstellar-Assignemnt
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
